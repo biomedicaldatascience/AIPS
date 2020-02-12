@@ -1,0 +1,8 @@
+start	end	pop7
+1	601	NorthernEuropean
+602	701	SouthernEuropean
+702	825	GreatBritain
+826	838	Russian
+839	900	Arab
+901	912	Basque
+913	952	Jews
